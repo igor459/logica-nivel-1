@@ -1,0 +1,12 @@
+#10 - problema: escreva um software informe a média aritimética de um aluno que cursou 4 bimestres
+print('resultado 1 Bimestre')
+n1 = float(input())
+print('resultado 2 Bimestre')
+n2 = float(input())
+print('resultado 3 Bimestre')
+n3 = float(input())
+print('resultado 4 Bimestre')
+n4 = float(input())
+print("resultado total")
+media = (n1 + n2 + n3 + n4)
+print(f"media:{media:.2f}")
