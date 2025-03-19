@@ -1,0 +1,7 @@
+print('0- Fim')
+print('1- Inclui')
+print('2- Altera')
+print('3- Excluir')
+print('4- Consulta')
+print("")
+print('Opção:')
