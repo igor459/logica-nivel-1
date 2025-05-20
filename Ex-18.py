@@ -1,3 +1,7 @@
+#Verificação de Nota - Peça ao usuário para digitar sua nota (0 a 10) e classifique:
+Nota ≥ 7: Aprovado
+Nota entre 5 e 6.9: Recuperação
+Nota < 5: Reprovado
 
 valores = []
 for i in range(3):
